@@ -1,0 +1,38 @@
+.bg-orange {
+  background-color: #6898c9;
+  border-bottom: #000 1px solid;
+}
+a{
+  color: #000 !important;
+  font-weight: 600;
+  text-decoration: none!important;
+}
+a:active{
+  color: #b4e2f2 !important;
+}
+.activesNav{
+  color: #b4e2f2 !important;
+  font-weight: 800;
+ 
+}
+.card-employees{
+  background-color: #b4e2f2;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.border{
+  border: 1px solid #6898c9 !important;
+}
+
+.bg-modal{
+  background-color: #b4e2f2 !important;
+}
+
+.bg-employees-true{
+  background-color: #84f993;
+}
+
+.bg-employees-false{
+
+  background-color: #ffb1bb;
+  
+}
